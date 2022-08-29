@@ -30,13 +30,12 @@ justify-content: space-around
 `
 
 const Info = styledComponents.div`
-background-color:
 width: 100%;
 height: 100%;
 display: flex;
 flex-wrap: wrap;
 align-items: center;
-justify-content: space-between;
+justify-content: space-around;
 `
 
 const Button = styledComponents.button`
